@@ -1,14 +1,38 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cifrado Cesar</title>
+</head>
+<body>
+
+    <div id="generalBox">
+      <img src="Logo-Cesar.png" class="imagen">
+      <div id="minimalBox">
+        <h1>Cifrado Cesar</h1>
+        <hr>
+        <p>¿Cuál es el texto?</p>
+        <input type="text" id="ingresaTexto" placeholder="Ingresa tu texto">
+        <hr>
+        <p>¿Cuál es tu clave secreta?</p>
+        <input type="number" id="desplazamiento" placeholder="Número de desplazamiento">
+        <hr>
+        <button id="cifrar">Cifrar</button>
+        <button id="decifrar">Decifrar</button>
+        <hr>
+        <p>Este es el resultado</p>
+        <input type="text" id="textoSalida" placeholder="Salida de texto" readonly="readonly">
+        <hr>
+        <button id="limpiar">Limpiar</button>
+
+
+        
+
+      </div>
+    </div> 
+
     <script src="index.js" type="module"></script>
-  </body>
+</body>
 </html>
