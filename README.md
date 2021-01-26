@@ -38,7 +38,7 @@ Con el paso del tiempo, existen cada vez más aplicaciones en las que se requier
 ![Screenshot](prototipo2.jpeg)
 
 ### Prototipo de alta fidelidad
-![Screenshot](prototipo-final.PNG)
+![Screenshot](Prototipo-final.PNG)
 
 ### Feedback
 
