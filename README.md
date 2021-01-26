@@ -5,11 +5,11 @@
 * [1. Definición del proyecto](#1-definición-del-proyecto)
 * [2. Resultado final](#2-resultado-final)
 * [3. Diseño de experiencia del Usuario](#3-diseño-de-experiencia)
-  - [4. Usuarios destinados y objetivos](#4-Usuarios-destinados)
-  - [5. Solución a problemas del usuario](#5-solución-a-problemas)
-  - [6. Prototipo de baja fidelidad](#6-prototipo-de-baja-fidelidad)
-  - [7. Prototipo de alta fidelidad](#7-prototipo-de-alta-fidelidad)
-  - [8. Feedback](#8-feedback)
+  - [Usuarios destinados y objetivos](#4-Usuarios-destinados)
+  - [Solución a problemas del usuario](#5-solución-a-problemas)
+  - [Prototipo de baja fidelidad](#6-prototipo-de-baja-fidelidad)
+  - [Prototipo de alta fidelidad](#7-prototipo-de-alta-fidelidad)
+  - [Feedback](#8-feedback)
 
 ***
 
