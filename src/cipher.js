@@ -2,7 +2,7 @@
 const cipher = {
 
   encode: (offset, str) => {
-        console.log(typeof offset, typeof str);
+        
           
 
         if (offset === "" || offset === "0" || offset === null) {
